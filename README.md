@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atchiraju1975
-- 👀 I’m interested in learning new technology
+- 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning terraform
 - 💞️ I’m looking to collaborate on devops
 - 📫 How to reach me -- dm on linked on
