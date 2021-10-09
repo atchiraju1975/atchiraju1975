@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning terraform
 - 💞️ I’m looking to collaborate on devops
-- 📫 How to reach me -- dm on linked on
+- 📫 How to reach me -- dm on linkedin
 
 <!---
 atchiraju1975/atchiraju1975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
